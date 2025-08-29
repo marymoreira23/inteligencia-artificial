@@ -10,10 +10,10 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Diagnóstico precoce de doenças por meio da análise de imagens médicas.",
-                 afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                 afirmacao: "melhora em resultados de exames."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
+                texto:  ".",
                 afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
             }    
            
